@@ -1,2 +1,2 @@
 # ddd-aws
-Data Driven Deployment   AWS 
+Data Driven Deployment AWS 
